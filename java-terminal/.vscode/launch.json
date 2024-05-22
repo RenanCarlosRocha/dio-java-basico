@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "UsandoScanner",
+            "request": "launch",
+            "mainClass": "UsandoScanner",
+            "projectName": "java-terminal_fbf657d5"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
